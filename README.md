@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @VALIREO
+- 👋 Hi, I’m @AHMED ROFROF
 - 👀 I’m interested in learn programming
-- 🌱 I’m currently learning Html and css python and algorithme 
+- 🌱 I’m currently learning Html and css python and algorithme and javascript and php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
